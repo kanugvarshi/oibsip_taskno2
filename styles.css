@@ -1,0 +1,35 @@
+body{
+    /* color: white; */
+    text-align: center;
+    margin: 0;
+    font-size: 1.2rem;
+}
+img{
+    border-radius: 15%;
+}
+header{
+    font-size: 4rem;
+}
+div{
+    padding: 3% 4%;
+}
+.picture{
+    margin-top: 0%;
+    background-color: black;
+    color: yellow;
+}
+.n{
+    background-image: url('b3.png');
+    font-style: oblique;
+    font-weight: bolder;
+}
+.o{
+    background-color: black;
+    font-style: oblique;
+    font-weight: bolder;
+    color: rgb(255, 191, 0);
+}
+
+
+
+
